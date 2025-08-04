@@ -1,7 +1,7 @@
 # X.Com.Register - Быстрый регистратор X.Com (Twitter) аккаунтов
 
 [![License](https://img.shields.io/badge/License-Commercial-blue.svg)](https://zenno.club/discussion/threads/x-com-register-bystryj-registrator-x-com-twitter-akkauntov-ne-ispolzuja-sms.115137/)
-[![Platform](https://img.shields.io/badge/Platform-ZennoPoster-green.svg)](https://zennolab.com/)
+[![Platform](https://img.shields.io/badge/Platform-ZennoPoster-green.svg)]([https://zennolab.com/](https://zennolab.com/ru/products/zennoposter/pid/zufa))
 [![Support](https://img.shields.io/badge/Support-Telegram-red.svg)](https://t.me/zufa_support)
 
 ---
